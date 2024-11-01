@@ -1,0 +1,74 @@
+.video_watermarking_details{
+    display:none;
+}a.button.button-primary.show_watermarking_details { margin-left: 50%; transform: translateX(-50%); }
+.watermark_media span.select2-container.select2-container--default.select2-container--open {top:100%!important;}
+.course_select_div {
+    position: relative;
+}
+
+.selected_users_div {
+    position: relative;
+}
+.watermark-file-vid{
+    width: 100%;
+    display: grid;
+    background: #fff;
+    padding: 15px 18px;
+    border: 1px solid rgba(0,0,0,0.08);
+    margin: 10px 0;
+    width: 100%;
+    border-radius: 5px;
+}
+.watermark-file-vid .button {
+    width: fit-content;
+}
+.watermark-file-vid span.file_vid_progressbar {
+    width:100%;
+    height:8px;
+    border-radius:5px;
+    background:#f3f3f3;
+    position:relative;
+    display:inline-block;
+}
+.watermark-file-vid span.file_vid_progressbar small{
+    width:0%;
+    height:100%;
+    border-radius:5px;
+    background:#008ec2;
+    position:absolute;
+    top:0;left:0;
+    display:inline-block;
+}
+.watermark_media {
+    width: 100%;
+    display: block;
+    position: relative;
+    clear: both;
+}
+.watermark_media > label{
+    max-width: 30%;
+    margin-right: 4%;
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+}
+
+
+.watermark_media > div{display:inline-block;}
+
+.watermark-file-vid i.prog_percent {width:100%;text-align:center;display:inline-block;}
+
+select.videotube_privacy_data.selectusers_videotube {
+    width: 100%;
+}
+
+.videotube_watermark_check_video_status {
+   max-width: 120px;
+   text-align: center;
+}
+.watermark-file-vid>.watermark-file-vid {
+   padding: 0;
+   border: none;
+}
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(20.7442,0,0,17.4102,-3841.62,-1169.24)">
+        <path d="M191.673,112.76C191.986,112.647 192.297,112.502 192.604,112.314L205.277,104.509L221.277,94.656C224.545,92.644 224.545,87.613 221.277,85.6L205.277,75.747L192.604,67.942C188.763,65.577 184.186,69.435 185.456,73.968L189.565,88.631C189.608,88.784 189.642,88.938 189.671,89.094L194.321,106.589C195.02,109.222 193.724,111.732 191.673,112.76Z" style="fill:rgb(242,95,30);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(20.7442,0,0,17.4102,-3841.62,-1169.24)">
+        <path d="M194.321,106.589L189.671,89.094C189.83,89.932 189.796,90.802 189.565,91.625L185.456,106.288C184.288,110.459 188.07,114.055 191.673,112.76C193.724,111.732 195.02,109.222 194.321,106.589Z" style="fill:rgb(199,71,14);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1.60563,0,0,1.60563,-179.461,-11.686)">
+        <text x="226.25px" y="325.605px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:144px;fill-opacity:0.15;">WM</text>
+    </g>
+    <g transform="matrix(1.60563,0,0,1.60563,-189.461,-19.686)">
+        <text x="226.25px" y="325.605px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:144px;fill:white;">WM</text>
+    </g>
+    <g transform="matrix(1,0,0,1,2.46519,108.773)">
+        <text x="135.914px" y="204.778px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:231.211px;fill-opacity:0.6;">v<tspan x="248.132px " y="204.778px ">e</tspan></text>
+    </g>
+</svg>
